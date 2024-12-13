@@ -1,9 +1,7 @@
 
 网络->找到profile_id开头的那个请求。
 
-复制Cookie，最后没有换行符。如果有换行符会报错：`Invalid character in header content ["cookie"]
-
-`
+复制Cookie，最后没有换行符。如果有换行符会报错：`Invalid character in header content ["cookie"]`
 
 
 
